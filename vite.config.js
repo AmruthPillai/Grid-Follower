@@ -1,5 +1,3 @@
-import { defineConfig } from "vite";
-
-export default defineConfig({
+module.exports = {
   base: "/Grid-Follower/",
-});
+};
